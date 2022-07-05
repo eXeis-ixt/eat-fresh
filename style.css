@@ -46,7 +46,7 @@ body{
 }
 .about-me{
     align-items: center;
-    background: url(img/7.png)no-repeat;
+    background: url(./img/7.png)no-repeat;
     background-size: cover; 
      padding-bottom: 0;
 }
